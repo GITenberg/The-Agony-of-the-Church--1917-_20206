@@ -1,0 +1,33 @@
+_repo: The-Agony-of-the-Church--1917-_20206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velimirović, Nikolaj
+    aliases:
+    - Velimirović, Nikolai
+    - Велимировић, Николај
+    - Velimirovic, Nikolaj
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '5032'
+    url: http://www.gutenberg.org/2009/agents/5032
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Velimirovic
+description: ''
+gutenberg_issued: '2006-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20206'
+  lccn: '38014608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- 20th century'
+- !lcc 'BR'
+- !lcsh 'Church'
+title: The Agony of the Church (1917)
+url: http://www.gutenberg.org/ebooks/20206
